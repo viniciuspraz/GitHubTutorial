@@ -1,1 +1,4 @@
 Primeira vez utilizando o GitHub.
+
+---------------------------------
+Ferramenta muito interessante para desenvolvimento! :)
